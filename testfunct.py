@@ -9,10 +9,12 @@ import pymysql
 import sqlite3
 from sqlite3 import Error
 import os
+import re
 import shutil
 import db_config
 from tkinter.scrolledtext import ScrolledText
 import random
+
 rows=""
 num_of_rows=""
 
