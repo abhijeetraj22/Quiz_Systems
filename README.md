@@ -25,8 +25,6 @@
 # Directory Tree :cactus:
 ```bash
 .
-├── birthdays.json
-├── chromedriver
 ├── QuizDetail
 │   ├── quizname.txt
 │   ├── quizsystem.txt
