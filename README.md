@@ -76,6 +76,19 @@
 ```
  
 ## ScreenShot :camera_flash:
-### Main Window
-**1).** This is the Main Page of the application. <br><br>
-![github-small](images/Option1R.jpeg)
+
+**Main Window**
+**1).** This is the Main Page of the application.<br><br>
+<p align="center"><img src="QuizSystemImg/HomeWin.JPG"></p><br><br>
+
+**Root Window**
+<p align="center"><img src="QuizSystemImg/rootWin1.JPG" width="400"><img src="QuizSystemImg/rootWin2.JPG" width="400"></p>
+<p align="center"><img src="QuizSystemImg/rootWin3.JPG" width="400"></p>
+
+**Admin Window**
+<p align="center"><img src="QuizSystemImg/adminWin1.JPG" width="400"><img src="QuizSystemImg/adminWin2.JPG" width="400"></p>
+<p align="center"><img src="QuizSystemImg/adminWin3.JPG" width="400"><img src="QuizSystemImg/adminWin4.JPG" width="400"></p>
+
+**User Window**
+<p align="center"><img src="QuizSystemImg/userWin1.JPG" width="400"><img src="QuizSystemImg/userWin2.JPG" width="400"></p>
+<p align="center"><img src="QuizSystemImg/userWin3.JPG" width="400"><img src="QuizSystemImg/userWin4.JPG" width="400"></p>
