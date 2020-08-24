@@ -21,6 +21,8 @@
  - Activate virtual python environment  `source venv/bin/activate`
  - Install all the libraries mentioned in [requirements.txt](https://github.com/abhijeetraj22/Quiz_Systems/blob/master/requirements) using  `pip install -r requirements.txt`
  - Run Python file  `python __init__.py` or  `python enter.py` or double click `Quiz.exe` file
+ - Select Account Type `Root` and Enter Email `abhijeetraj22@gmail.com` & Password `Raj@2209`
+  
  
 # Directory Tree :cactus:
 ```bash
