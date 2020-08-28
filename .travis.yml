@@ -8,6 +8,9 @@ python:
 install:
   - "pip install -r requirements.txt"
 
+dist: xenial
+services:
+  - xvfb
+  
 script:
-  - venv/bin/activate
   - python enter.py
