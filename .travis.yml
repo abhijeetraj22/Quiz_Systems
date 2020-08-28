@@ -9,7 +9,6 @@ virtualenv:
   system_site_packages: true
 
 install:
-  - "python -m venv venv"
   - "pip install -r https://github.com/abhijeetraj22/Quiz_Systems/blob/master/requirements.txt"
 
 script:
