@@ -8,7 +8,7 @@ python:
 install:
   - "python -m pip install --user virtualenv"
   - "python -m venv venv"
-  - "pip install -r requirements.txt"
+  - "pip install -r https://github.com/abhijeetraj22/Quiz_Systems/blob/master/requirements.txt"
 
 
 script:
