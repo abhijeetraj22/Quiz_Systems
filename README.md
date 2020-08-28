@@ -1,7 +1,7 @@
 ![](https://images.cnbctv18.com/wp-content/uploads/2018/05/10.jpg)
 # QUIZ SYSTEM :mortar_board:
 ## Desktop Application
-![Supported platforms](https://img.shields.io/badge/platform-Windows-informational.svg?style=flat-square) [![GitHub release](https://img.shields.io/github/release/abhijeetraj22/Quiz_Systems.svg?style=flat-square)](https://github.com/abhijeetraj22/Quiz_Systems/releases) [![GitHub last commit](https://img.shields.io/github/last-commit/abhijeetraj22/Quiz_Systems.svg?style=flat-square)](https://github.com/abhijeetraj22/Quiz_Systems/commit/master) ![GitHub All Releases](https://img.shields.io/github/downloads/abhijeetraj22/Quiz_Systems/total.svg?style=flat-square)
+![Supported platforms](https://img.shields.io/badge/platform-Windows-informational.svg?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/abhijeetraj22/Quiz_Systems) [![GitHub release](https://img.shields.io/github/release/abhijeetraj22/Quiz_Systems.svg?style=flat-square)](https://github.com/abhijeetraj22/Quiz_Systems/releases) [![GitHub last commit](https://img.shields.io/github/last-commit/abhijeetraj22/Quiz_Systems.svg?style=flat-square)](https://github.com/abhijeetraj22/Quiz_Systems/commit/master) [![Build Status](https://travis-ci.org/abhijeetraj22/Quiz_Systems.svg?branch=master)](https://travis-ci.org/abhijeetraj22/Quiz_Systems)
  - Quiz System is an application that has general questions related to current affairs and computer.
 
  - It has multiple choice questions with time limit and it also calculate scores of each correct answer.
