@@ -14,4 +14,3 @@ services:
   
 script:
   - python testfunct.py
-  - Quiz.exe
