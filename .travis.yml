@@ -7,7 +7,6 @@ python:
 
 install:
   - "pip install -r requirements.txt"
-  - "pip install pytest"
 
 dist: xenial
 services:
@@ -15,16 +14,4 @@ services:
   
 script:
   - python testfunct.py
-  - pytest Quizgame.py
-  - __init__.py
-  - admin_panel.py
-  - db.py
-  - enter.py
-  - main.py
-  - pass_recov.py
-  - root_panel.py
-  - set_recov.py
-  - testfunct.py
-  - user_Panel.py
-  - user_regis.py
-
+  - Quiz.exe
