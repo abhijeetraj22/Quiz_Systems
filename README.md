@@ -1,6 +1,7 @@
 ![](https://images.cnbctv18.com/wp-content/uploads/2018/05/10.jpg)
 # QUIZ SYSTEM :mortar_board:
 ## Desktop Application
+![Supported platforms](https://img.shields.io/badge/platform-Windows-informational.svg?style=flat-square) [![GitHub release](https://img.shields.io/github/release/abhijeetraj22/Quiz_Systems.svg?style=flat-square)](https://github.com/abhijeetraj22/Quiz_Systems/releases) [![GitHub last commit](https://img.shields.io/github/last-commit/abhijeetraj22/Quiz_Systems.svg?style=flat-square)](https://github.com/abhijeetraj22/Quiz_Systems/commit/master) ![GitHub All Releases](https://img.shields.io/github/downloads/abhijeetraj22/Quiz_Systems/total.svg?style=flat-square)
  - Quiz System is an application that has general questions related to current affairs and computer.
 
  - It has multiple choice questions with time limit and it also calculate scores of each correct answer.
@@ -19,13 +20,13 @@
  - Create new virtual python environment  `python3 -m venv venv`
  - Activate virtual python environment  `source venv/bin/activate`
  - Install all the libraries mentioned in [requirements.txt](https://github.com/abhijeetraj22/Quiz_Systems/blob/master/requirements) using  `pip install -r requirements.txt`
- - Run Python file  `python __init__.py` or  `python enter.py`
+ - Run Python file  `python __init__.py` or  `python enter.py` or double click `Quiz.exe` file
+ - Select Account Type `Root` and Enter Email `abhijeetraj22@gmail.com` & Password `Raj@2209`
+  
  
 # Directory Tree :cactus:
 ```bash
 .
-├── birthdays.json
-├── chromedriver
 ├── QuizDetail
 │   ├── quizname.txt
 │   ├── quizsystem.txt
@@ -100,20 +101,19 @@
 <p align="center"><img src="QuizSystemImg/ForgetPasswordWin.JPG"></p><br><br>
 
 **Root Window**
-<p align="center"><img src="QuizSystemImg/rootWin1.JPG" width="400"><img src="QuizSystemImg/rootWin2.JPG" width="400"></p>
-<p align="center"><img src="QuizSystemImg/rootWin3.JPG" width="400"></p>
+<p align="center"><img src="QuizSystemImg/rootWin1.JPG" width="450"><img src="QuizSystemImg/rootWin2.JPG" width="450"></p>
+<p align="center"><img src="QuizSystemImg/rootWin3.JPG" width="450"></p>
 
 **Admin Window**
-<p align="center"><img src="QuizSystemImg/adminWin1.JPG" width="400"><img src="QuizSystemImg/adminWin2.JPG" width="400"></p>
-<p align="center"><img src="QuizSystemImg/adminWin3.JPG" width="400"><img src="QuizSystemImg/adminWin4.JPG" width="400"></p>
+<p align="center"><img src="QuizSystemImg/adminWin1.JPG" width="450"><img src="QuizSystemImg/adminWin2.JPG" width="450"></p>
+<p align="center"><img src="QuizSystemImg/adminWin3.JPG" width="450"><img src="QuizSystemImg/adminWin4.JPG" width="450"></p>
 
 **User Window**
-<p align="center"><img src="QuizSystemImg/userWin1.JPG" width="400"><img src="QuizSystemImg/userWin2.JPG" width="400"></p>
-<p align="center"><img src="QuizSystemImg/userWin3.JPG" width="400"><img src="QuizSystemImg/userWin4.JPG" width="400"></p>
+<p align="center"><img src="QuizSystemImg/userWin1.JPG" width="450"><img src="QuizSystemImg/userWin2.JPG" width="450"></p>
+<p align="center"><img src="QuizSystemImg/userWin3.JPG" width="450"><img src="QuizSystemImg/userWin4.JPG" width="450"></p>
 
 **Quiz Window**
-<p align="center"><img src="QuizSystemImg/quizWin1.JPG" width="400"><img src="QuizSystemImg/quizWin2.JPG" width="400"></p>
-<p align="center"><img src="QuizSystemImg/quizWin3.JPG" width="400"></p>
+<p align="center"><img src="QuizSystemImg/quizWin1.JPG" width="700"><img src="QuizSystemImg/quizWin2.JPG" width="700"><img src="QuizSystemImg/quizWin3.JPG" width="700"></p>
 
 **Set Recovery Window**
 <p align="center"><img src="QuizSystemImg/recoveryWin.JPG"></p><br><br>
