@@ -13,4 +13,5 @@ services:
   - xvfb
   
 script:
-  - python enter.py
+  - python testfunct.py
+
