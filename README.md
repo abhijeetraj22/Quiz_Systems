@@ -17,7 +17,7 @@
 # How to run the project? :thinking:
  - Clone github repository in your local system  `https://github.com/abhijeetraj22/Quiz_Systems.git`
  - Move in Quiz_Systems repository  `cd Quiz_Systems`
-  - Install all the libraries mentioned in [requirements.txt](https://github.com/abhijeetraj22/Quiz_Systems/blob/master/requirements) using  `pip install -r requirements.txt`
+  - Install all the libraries mentioned in [requirements.txt](https://github.com/abhijeetraj22/Quiz_Systems/blob/master/requirementstxt) using  `pip install -r requirements.txt`
  - Create new virtual python environment  `python -m venv venv` or `python -m venv clone_path_address` like `python -m venv c:\path\to\venv`
  - Activate virtual python environment  `venv\Scripts\activate.bat`
  - Run Python file  `python __init__.py` or  `python enter.py` or double click `Quiz.exe` file
