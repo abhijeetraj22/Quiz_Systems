@@ -6,3 +6,5 @@ PyMySQL==0.9.3
 regex==2020.7.14
 requests==2.23.0
 xlrd==1.2.0
+virtualenv==20.0.31
+
