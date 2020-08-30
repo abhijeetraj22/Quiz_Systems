@@ -16,12 +16,13 @@
 
 # How to run the project? :thinking:
  - Clone github repository in your local system  `https://github.com/abhijeetraj22/Quiz_Systems.git`
- - Move in WhatsappBOT repository  `cd Quiz_Systems`
- - Create new virtual python environment  `python3 -m venv venv`
- - Activate virtual python environment  `source venv/bin/activate`
- - Install all the libraries mentioned in [requirements.txt](https://github.com/abhijeetraj22/Quiz_Systems/blob/master/requirements) using  `pip install -r requirements.txt`
+ - Move in Quiz_Systems repository  `cd Quiz_Systems`
+  - Install all the libraries mentioned in [requirements.txt](https://github.com/abhijeetraj22/Quiz_Systems/blob/master/requirements) using  `pip install -r requirements.txt`
+ - Create new virtual python environment  `python -m venv venv` or `python -m venv clone_path_address` like `python -m venv c:\path\to\venv`
+ - Activate virtual python environment  `venv\Scripts\activate.bat`
  - Run Python file  `python __init__.py` or  `python enter.py` or double click `Quiz.exe` file
  - Select Account Type `Root` and Enter Email `abhijeetraj22@gmail.com` & Password `Raj@2209`
+ - Excel File Format(SAMPLE) - [SAMPLE.xls](https://github.com/abhijeetraj22/Quiz_Systems/blob/master/SAMPLE.xls)
   
  
 # Directory Tree :cactus:
@@ -70,6 +71,7 @@
 ├── user_Panel.py
 ├── user_regis.py
 ├── README.md
+├── SAMPLE.xls
 ├── requirements.txt
 └── Quiz.exe
 
@@ -101,16 +103,13 @@
 <p align="center"><img src="QuizSystemImg/ForgetPasswordWin.JPG"></p><br><br>
 
 **Root Window**
-<p align="center"><img src="QuizSystemImg/rootWin1.JPG" width="450"><img src="QuizSystemImg/rootWin2.JPG" width="450"></p>
-<p align="center"><img src="QuizSystemImg/rootWin3.JPG" width="450"></p>
+<p align="center"><img src="QuizSystemImg/rootWin1.JPG" width="450">
 
 **Admin Window**
-<p align="center"><img src="QuizSystemImg/adminWin1.JPG" width="450"><img src="QuizSystemImg/adminWin2.JPG" width="450"></p>
-<p align="center"><img src="QuizSystemImg/adminWin3.JPG" width="450"><img src="QuizSystemImg/adminWin4.JPG" width="450"></p>
+<p align="center"><img src="QuizSystemImg/adminWin1.JPG" width="450">
 
 **User Window**
-<p align="center"><img src="QuizSystemImg/userWin1.JPG" width="450"><img src="QuizSystemImg/userWin2.JPG" width="450"></p>
-<p align="center"><img src="QuizSystemImg/userWin3.JPG" width="450"><img src="QuizSystemImg/userWin4.JPG" width="450"></p>
+<p align="center"><img src="QuizSystemImg/userWin1.JPG" width="450">
 
 **Quiz Window**
 <p align="center"><img src="QuizSystemImg/quizWin1.JPG" width="700"><img src="QuizSystemImg/quizWin2.JPG" width="700"><img src="QuizSystemImg/quizWin3.JPG" width="700"></p>
