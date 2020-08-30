@@ -351,6 +351,7 @@ def num_press_quiz(name):
     gameWin.title("Quiz")
     i, j, k, l = 700, 600, 400, 30
     gameWin.geometry(f"{i}x{j}+{k}+{l}")
+    gameWin.tk.call('wm','iconphoto',gameWin, ImageTk.PhotoImage(file='venv/Image/quiz_icon.png'))
     gameWin.config(background="#ffffff")
     gameWin.resizable(0, 0)
 

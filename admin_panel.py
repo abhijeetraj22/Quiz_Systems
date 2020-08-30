@@ -223,6 +223,7 @@ def admin_Win():
     admin_win = Tk()
     i, j, k, l = 520, 565, 400, 30
     admin_win.geometry(f"{i}x{j}+{k}+{l}")
+    admin_win.tk.call('wm','iconphoto',admin_win, ImageTk.PhotoImage(file='venv/Image/quiz_icon.png'))
     admin_win.resizable(0, 0)
     admin_win['bg'] = "white"
     admin_win.title("Admin Panel")

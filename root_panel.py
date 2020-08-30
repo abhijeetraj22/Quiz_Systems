@@ -166,6 +166,7 @@ def rootWin():
     i, j, k, l = 520, 560, 400, 30
     root_win.geometry(f"{i}x{j}+{k}+{l}")
     root_win.resizable(0, 0)
+    root_win.tk.call('wm','iconphoto',root_win, ImageTk.PhotoImage(file='venv/Image/quiz_icon.png'))
     root_win['bg'] = "white"
     root_win.title("Root Panel")
     fontlvlExp = ("Tahoma", 10, "bold")

@@ -88,7 +88,7 @@ mainwin.geometry(f"{i}x{j}+{k}+{l}")
 mainwin.resizable(0, 0)
 mainwin['bg']="white"
 mainwin.title("Quiz System")
-
+mainwin.tk.call('wm','iconphoto',mainwin, ImageTk.PhotoImage(file='venv/Image/quiz_icon.png'))
 labelframe1= LabelFrame(mainwin, text="Authentication",font= ("Tahoma",20),fg="#ff40d0",bd=2,bg="white").pack(fill="both", expand="yes",padx=40,pady=25)
 
 imageX = Image.open("venv/Image/quiz.png")

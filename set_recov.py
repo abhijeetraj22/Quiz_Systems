@@ -112,6 +112,7 @@ pass_rec_win = Tk()
 #self.iconbitmap(r'quiz.ico')
 i, j, k, l = 520, 420, 400, 130
 pass_rec_win.geometry(f"{i}x{j}+{k}+{l}")
+pass_rec_win.tk.call('wm','iconphoto',pass_rec_win, ImageTk.PhotoImage(file='venv/Image/quiz_icon.png'))
 pass_rec_win['bg']="white"
 pass_rec_win.resizable(0, 0)
 pass_rec_win.title("Recovery")

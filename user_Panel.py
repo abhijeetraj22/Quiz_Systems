@@ -103,6 +103,7 @@ def userwin():
     i, j, k, l = 520, 560, 400, 30
     userWin.geometry(f"{i}x{j}+{k}+{l}")
     userWin.resizable(0, 0)
+    userWin.tk.call('wm','iconphoto',userWin, ImageTk.PhotoImage(file='venv/Image/quiz_icon.png'))
     userWin['bg']="white"
     userWin.title("Quiz System")
 

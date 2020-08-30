@@ -87,6 +87,7 @@ userRegWin = Tk()
 i, j, k, l = 540, 680, 400, 10
 userRegWin.geometry(f"{i}x{j}+{k}+{l}")
 userRegWin.resizable(0, 0)
+userRegWin.tk.call('wm','iconphoto',userRegWin, ImageTk.PhotoImage(file='venv/Image/quiz_icon.png'))
 userRegWin['bg']="white"
 userRegWin.title("Registration")
 imageX = Image.open("venv/Image/quiz.png")
